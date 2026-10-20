@@ -8,15 +8,12 @@ I build websites, SaaS products and AI tooling in Malaysia under **[Sasa Teguh](
 
 | Project | What it does |
 |---|---|
-| [learnpath](https://github.com/aimanmalib/learnpath) | Adaptive learning platform: quizzes, flashcards and study roadmaps (Next.js) |
-| [studypal](https://github.com/aimanmalib/studypal) | Study assistant: chat, flashcards, quizzes and plans with streaming responses (Next.js) |
-| [codeguard](https://github.com/aimanmalib/codeguard) | Multi-agent code review: security, style, logic, tests and docs in parallel (Python) |
-| [documind](https://github.com/aimanmalib/documind) | Multi-agent document Q&A with verification and citations (Python) |
-| [apiforge](https://github.com/aimanmalib/apiforge) | Describe an API in plain language, get a FastAPI backend with spec, auth and tests (Python) |
-| [contentforge](https://github.com/aimanmalib/contentforge) | Multi-agent content pipeline: research, write, optimise, translate (Python) |
+| [crewforge](https://github.com/aimanmalib/crewforge) | One crew of LLM agents, four recipes: code review, document Q&A with citations, API scaffolding and articles. Fails loudly instead of reporting success on empty output (Python) |
+| [learnpath](https://github.com/aimanmalib/learnpath) | Learning app in English and Bahasa Melayu: quizzes, SM-2 spaced-repetition flashcards and step-by-step roadmaps (Next.js) |
+| [studypal](https://github.com/aimanmalib/studypal) | Study assistant in English and Bahasa Melayu: streaming chat, flashcards, quizzes and summaries (Next.js) |
 | [hermes-memory-engine](https://github.com/aimanmalib/hermes-memory-engine) | Markdown-based memory for AI agents, on [npm](https://www.npmjs.com/package/hermes-memory-engine) (TypeScript) |
 
-All the LLM tools work with any OpenAI-compatible provider: OpenAI, OpenRouter, Groq, Ollama and others.
+All of them work with any OpenAI-compatible provider (OpenAI, OpenRouter, Groq, Ollama and others), and the learning apps let you bring your own key. crewforge brings together four earlier tools, [codeguard](https://github.com/aimanmalib/codeguard), [documind](https://github.com/aimanmalib/documind), [apiforge](https://github.com/aimanmalib/apiforge) and [contentforge](https://github.com/aimanmalib/contentforge), which are now archived.
 
 #### Contributions
 
