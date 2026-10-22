@@ -8,7 +8,7 @@ I build websites, SaaS products and AI tooling in Malaysia under **[Sasa Teguh](
 
 | Project | What it does |
 |---|---|
-| [crewforge](https://github.com/aimanmalib/crewforge) | One crew of LLM agents, four recipes: code review, document Q&A with citations, API scaffolding and articles. Fails loudly instead of reporting success on empty output (Python) |
+| [crewforge](https://github.com/aimanmalib/crewforge) | One crew of LLM agents, four recipes: code review, document Q&A with citations, API scaffolding and articles. Fails loudly instead of reporting success on empty output. `pip install crewforge` (Python, [PyPI](https://pypi.org/project/crewforge/)) |
 | [learnpath](https://github.com/aimanmalib/learnpath) | Learning app in English and Bahasa Melayu: quizzes, SM-2 spaced-repetition flashcards and step-by-step roadmaps (Next.js) |
 | [studypal](https://github.com/aimanmalib/studypal) | Study assistant in English and Bahasa Melayu: streaming chat, flashcards, quizzes and summaries (Next.js) |
 | [hermes-memory-engine](https://github.com/aimanmalib/hermes-memory-engine) | Markdown-based memory for AI agents, on [npm](https://www.npmjs.com/package/hermes-memory-engine) (TypeScript) |
