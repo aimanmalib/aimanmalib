@@ -22,6 +22,12 @@ crewforge, learnpath and studypal work with any OpenAI-compatible provider (Open
 - [lance-format/lance#7226](https://github.com/lance-format/lance/pull/7226): expose `io_buffer_size` in `CompactionOptions` (merged)
 - [Kiyoraka/Project-AI-MemoryCore#9](https://github.com/Kiyoraka/Project-AI-MemoryCore/pull/9): memory compaction system (merged)
 
+#### Work with Sasa Teguh
+
+I run [Sasa Teguh](https://sasateguh.com), a studio in Malaysia that builds websites found on Google and in AI answers, and sets up systems for businesses.
+
+[Book a call](https://sasateguh.com/book) · hello@sasateguh.com · [More from Sasa Teguh](https://github.com/sasateguh)
+
 #### Elsewhere
 
 [sasateguh.com/work](https://sasateguh.com/work): client sites, products and concepts
