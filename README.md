@@ -13,6 +13,7 @@ I build websites, SaaS products and AI tooling in Malaysia under **[Sasa Teguh](
 | [hermes-memory-engine](https://github.com/aimanmalib/hermes-memory-engine) | Markdown-based memory for AI agents, on [npm](https://www.npmjs.com/package/hermes-memory-engine) (TypeScript) |
 | [learnpath](https://github.com/aimanmalib/learnpath) | Learning app in English and Bahasa Melayu: quizzes, SM-2 spaced-repetition flashcards and step-by-step roadmaps (Next.js) |
 | [studypal](https://github.com/aimanmalib/studypal) | Study assistant in English and Bahasa Melayu: streaming chat, flashcards, quizzes and summaries (Next.js) |
+| [office-ai-tutor](https://github.com/aimanmalib/office-ai-tutor) | Microsoft Office tutor in English and Bahasa Melayu: cheat sheets, searchable references, auto-checked exercises, an in-browser Excel formula lab and an AI tutor (PHP) |
 
 crewforge, learnpath and studypal work with any OpenAI-compatible provider (OpenAI, OpenRouter, Groq, Ollama and others); learnpath and studypal let you bring your own key. crewforge brings together four earlier tools, [codeguard](https://github.com/aimanmalib/codeguard), [documind](https://github.com/aimanmalib/documind), [apiforge](https://github.com/aimanmalib/apiforge) and [contentforge](https://github.com/aimanmalib/contentforge), which are now archived.
 
