@@ -1,4 +1,4 @@
-### Hi, I'm Aiman 👋
+### Hi, I'm Aiman
 
 I build websites, SaaS products and AI tooling in Malaysia under **[Sasa Teguh](https://sasateguh.com)**. Most of that work is private client code; this profile holds the parts that are open.
 
