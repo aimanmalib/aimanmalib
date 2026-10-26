@@ -20,6 +20,11 @@ Company projects, including the engine behind Sasa Teguh Academy and weekly-rank
 
 #### Contributions
 
+- [sasateguh/.github#5](https://github.com/sasateguh/.github/pull/5): add Work with Sasa Teguh section (merged)
+- [sasateguh/.github#4](https://github.com/sasateguh/.github/pull/4): add public repositories to Open source (merged)
+- [sasateguh/.github#3](https://github.com/sasateguh/.github/pull/3): point office-ai-tutor at the sasateguh organization (merged)
+- [sasateguh/.github#2](https://github.com/sasateguh/.github/pull/2): add Work with Sasa Teguh section (merged)
+- [sasateguh/.github#1](https://github.com/sasateguh/.github/pull/1): add public repositories to Open source (merged)
 - [lance-format/lance#7226](https://github.com/lance-format/lance/pull/7226): expose `io_buffer_size` in `CompactionOptions` (merged)
 - [Kiyoraka/Project-AI-MemoryCore#9](https://github.com/Kiyoraka/Project-AI-MemoryCore/pull/9): memory compaction system (merged)
 
