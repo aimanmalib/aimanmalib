@@ -20,9 +20,16 @@ Built and run by me with Claude Code, in daily use:
 | [Cutt](https://cutt.my) | A Claude connector that edits 9:16 talking-head videos: add one connector URL and name a style |
 | [Ogog](https://ogog.my) (preview) | Posts a business's videos to TikTok, Instagram, Threads, Facebook and YouTube on a schedule and answers comments in its own words |
 | [Sasa Teguh Academy](https://academy.sasateguh.com) | The platform behind my Excel workshops; 105+ participants |
-| [Tun Wan Solar](https://tunwansolar.com) | Client work for an off-grid solar shop: catalogue, sizing calculator and simulator, plus the shop's ERP |
 
-Each product, with sources for every claim: [aimanmalib.com/en/work](https://aimanmalib.com/en/work). **Open to remote roles and contracts**: [aimanmalib.com/en](https://aimanmalib.com/en).
+#### Client work
+
+| Client | What I built |
+|---|---|
+| [Tun Wan Solar](https://tunwansolar.com) | Site for an off-grid solar shop in Perak: package catalogue, sizing calculator, off-grid simulator, plus the shop's ERP; the owner edits every price and page |
+| [Tumez Signature](https://tumezsignature.com) | Restaurant site in Cyberjaya the owner keeps up to date: menu, prices, seasonal packages, table requests that end in WhatsApp |
+| [Tun Wan Digital](https://tunwandigital.com) | Sales site for a one-page website service built from a shop's Google Maps details |
+
+Every product and client site, with sources for every claim: [aimanmalib.com/en/work](https://aimanmalib.com/en/work). **Open to remote roles and contracts**: [aimanmalib.com/en](https://aimanmalib.com/en).
 
 #### Open source
 
