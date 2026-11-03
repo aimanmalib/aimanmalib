@@ -4,6 +4,20 @@ I build websites, SaaS products and AI tooling in Malaysia under **[Sasa Teguh](
 
 *Saya membina laman web, produk SaaS dan alat AI di Malaysia di bawah Sasa Teguh. Kebanyakan kerja ialah kod klien yang tertutup; yang terbuka ada di sini.*
 
+#### Products I run
+
+Built and run by me with Claude Code, in daily use:
+
+| Product | What it does |
+|---|---|
+| [e-Pengurusan Sekolah](https://osis.my) | Co-curriculum reports and relief-teacher cover for schools; teachers at 20+ schools file reports from their phones |
+| [Sistem Tempahan](https://sistemtempahan.my) | Room and hall bookings for 10+ schools, with Telegram notifications |
+| [Cutt](https://cutt.my) | A Claude connector that edits 9:16 talking-head videos: add one connector URL and name a style |
+| [Vexx](https://vexx.my) | Scans a site's code, server image and live site, then writes a security report in Malay and English |
+| [Codr](https://codr.my) | A git forge in one Go binary; repositories stay plain git folders next to one SQLite file |
+
+Each product, with sources for every claim: [aimanmalib.com/en/work](https://aimanmalib.com/en/work). **Open to remote roles and contracts**: [aimanmalib.com/en](https://aimanmalib.com/en).
+
 #### Open source
 
 | Project | What it does |
