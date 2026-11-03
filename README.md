@@ -35,7 +35,8 @@ Every product and client site, with sources for every claim: [aimanmalib.com/en/
 
 | Project | What it does |
 |---|---|
-| [bayarkit](https://github.com/sasateguh/bayarkit) | One TypeScript interface for 16 payment gateways (Malaysian ones plus Stripe, Paddle and PayPal), with part of it in PHP/Laravel; [@bayarkit/core](https://www.npmjs.com/package/@bayarkit/core) on npm |
+| [codr](https://github.com/sasateguh/codr) | Self-hosted git forge in one Go binary: plain bare git repositories next to one SQLite file, SSH and HTTPS, issues, pull requests and CI, in English and Malay (Go) |
+| [bayarkit](https://github.com/sasateguh/bayarkit) | One TypeScript interface for 16 payment gateways (Malaysian ones plus Stripe, Paddle and PayPal; 6 tested against real sandboxes), with part of it in PHP/Laravel; [@bayarkit/core](https://www.npmjs.com/package/@bayarkit/core) on npm |
 | [crewforge](https://github.com/aimanmalib/crewforge) | One crew of LLM agents, five recipes: code review, document Q&A with citations, API scaffolding, articles, and honest academic-writing help (BM/EN). Fails loudly instead of reporting success on empty output. `pip install crewforge` (Python, [PyPI](https://pypi.org/project/crewforge/)) |
 | [hermes-telegram-miniapp](https://github.com/aimanmalib/hermes-telegram-miniapp) | Telegram Mini App control panel for Hermes Agent: status, sessions, cron and logs on your phone, behind verified Telegram login (React + Python) |
 | [hermes-memory-engine](https://github.com/aimanmalib/hermes-memory-engine) | Markdown-based memory for AI agents, on [npm](https://www.npmjs.com/package/hermes-memory-engine) (TypeScript) |
