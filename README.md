@@ -11,10 +11,16 @@ Built and run by me with Claude Code, in daily use:
 | Product | What it does |
 |---|---|
 | [e-Pengurusan Sekolah](https://osis.my) | Co-curriculum reports and relief-teacher cover for schools; teachers at 20+ schools file reports from their phones |
-| [Sistem Tempahan](https://sistemtempahan.my) | Room and hall bookings for 10+ schools, with Telegram notifications |
-| [Cutt](https://cutt.my) | A Claude connector that edits 9:16 talking-head videos: add one connector URL and name a style |
+| [Sistem Tempahan](https://sistemtempahan.my) | Room and hall bookings for 10+ schools, with Telegram notifications; one installation serves many organisations |
+| [HomestayPro](https://homestaypro.my) | Every homestay gets its own booking site and database; guests pay by FPX, card or bank transfer |
+| [Repx](https://repx.my) | Tracks where a business appears in search results and in AI answers, and how that changes over time |
+| [Labb](https://labb.my) | Finds every site on a server, verifies it with Google and Bing through DNS, and submits a sitemap only when the site is meant to be indexed |
 | [Vexx](https://vexx.my) | Scans a site's code, server image and live site, then writes a security report in Malay and English |
 | [Codr](https://codr.my) | A git forge in one Go binary; repositories stay plain git folders next to one SQLite file |
+| [Cutt](https://cutt.my) | A Claude connector that edits 9:16 talking-head videos: add one connector URL and name a style |
+| [Ogog](https://ogog.my) (preview) | Posts a business's videos to TikTok, Instagram, Threads, Facebook and YouTube on a schedule and answers comments in its own words |
+| [Sasa Teguh Academy](https://academy.sasateguh.com) | The platform behind my Excel workshops; 105+ participants |
+| [Tun Wan Solar](https://tunwansolar.com) | Client work for an off-grid solar shop: catalogue, sizing calculator and simulator, plus the shop's ERP |
 
 Each product, with sources for every claim: [aimanmalib.com/en/work](https://aimanmalib.com/en/work). **Open to remote roles and contracts**: [aimanmalib.com/en](https://aimanmalib.com/en).
 
@@ -22,6 +28,7 @@ Each product, with sources for every claim: [aimanmalib.com/en/work](https://aim
 
 | Project | What it does |
 |---|---|
+| [bayarkit](https://github.com/sasateguh/bayarkit) | One TypeScript interface for 16 payment gateways (Malaysian ones plus Stripe, Paddle and PayPal), with part of it in PHP/Laravel; [@bayarkit/core](https://www.npmjs.com/package/@bayarkit/core) on npm |
 | [crewforge](https://github.com/aimanmalib/crewforge) | One crew of LLM agents, five recipes: code review, document Q&A with citations, API scaffolding, articles, and honest academic-writing help (BM/EN). Fails loudly instead of reporting success on empty output. `pip install crewforge` (Python, [PyPI](https://pypi.org/project/crewforge/)) |
 | [hermes-telegram-miniapp](https://github.com/aimanmalib/hermes-telegram-miniapp) | Telegram Mini App control panel for Hermes Agent: status, sessions, cron and logs on your phone, behind verified Telegram login (React + Python) |
 | [hermes-memory-engine](https://github.com/aimanmalib/hermes-memory-engine) | Markdown-based memory for AI agents, on [npm](https://www.npmjs.com/package/hermes-memory-engine) (TypeScript) |
