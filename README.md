@@ -1,12 +1,12 @@
 ### Hi, I'm Aiman
 
-I build websites, SaaS products and AI tooling in Malaysia under **[Sasa Teguh](https://sasateguh.com)**. Most of that work is private client code; this profile holds the parts that are open.
+I build websites, SaaS products and AI tooling in Malaysia under **[Sasa Teguh](https://sasateguh.com)**. The code for most of it is private; the products and client sites below are live, and the open-source parts are on this profile.
 
-*Saya membina laman web, produk SaaS dan alat AI di Malaysia di bawah Sasa Teguh. Kebanyakan kerja ialah kod klien yang tertutup; yang terbuka ada di sini.*
+*Saya membina laman web, produk SaaS dan alat AI di Malaysia di bawah Sasa Teguh. Kebanyakan kodnya tertutup; produk dan laman klien di bawah sedang hidup, dan kod terbuka ada di profil ini.*
 
 #### Products I run
 
-Built and run by me with Claude Code, in daily use:
+Built and run by me with Claude Code:
 
 | Product | What it does |
 |---|---|
