@@ -10,8 +10,8 @@ Built and run by me with Claude Code:
 
 | Product | What it does |
 |---|---|
-| [e-Pengurusan Sekolah](https://osis.my) | Co-curriculum reports and relief-teacher cover for schools; teachers at 20+ schools file reports from their phones |
-| [Sistem Tempahan](https://sistemtempahan.my) | Room and hall bookings for 10+ schools, with Telegram notifications; one installation serves many organisations |
+| [e-Pengurusan Sekolah](https://osis.my) | Co-curriculum reports and relief-teacher cover for schools; teachers file reports from their phones |
+| [Sistem Tempahan](https://sistemtempahan.my) | Room and hall bookings for schools and offices, with Telegram notifications; one installation serves many organisations |
 | [HomestayPro](https://homestaypro.my) | Every homestay gets its own booking site and database; guests pay by FPX, card or bank transfer |
 | [Repx](https://repx.my) | Tracks where a business appears in search results and in AI answers, and how that changes over time |
 | [Labb](https://labb.my) | Finds every site on a server, verifies it with Google and Bing through DNS, and submits a sitemap only when the site is meant to be indexed |
@@ -19,7 +19,7 @@ Built and run by me with Claude Code:
 | [Codr](https://codr.my) | A git forge in one Go binary; repositories stay plain git folders next to one SQLite file |
 | [Cutt](https://cutt.my) | A Claude connector that edits 9:16 talking-head videos: add one connector URL and name a style |
 | [Ogog](https://ogog.my) (preview) | Posts a business's videos to TikTok, Instagram, Threads, Facebook and YouTube on a schedule and answers comments in its own words |
-| [Sasa Teguh Academy](https://academy.sasateguh.com) | The platform behind my Excel workshops; 105+ participants |
+| [Sasa Teguh Academy](https://academy.sasateguh.com) | The platform behind my Excel workshops: references, auto-checked exercises and an AI tutor, in English and Malay |
 
 #### Client work
 
@@ -29,7 +29,7 @@ Built and run by me with Claude Code:
 | [Tumez Signature](https://tumezsignature.com) | Restaurant site in Cyberjaya the owner keeps up to date: menu, prices, seasonal packages, table requests that end in WhatsApp |
 | [Tun Wan Digital](https://tunwandigital.com) | Sales site for a one-page website service built from a shop's Google Maps details |
 
-Every product and client site, with sources for every claim: [aimanmalib.com/en/work](https://aimanmalib.com/en/work). **Open to remote roles and contracts**: [aimanmalib.com/en](https://aimanmalib.com/en).
+Details for every product and client site: [aimanmalib.com/en/work](https://aimanmalib.com/en/work). **Open to remote roles and contracts**: [aimanmalib.com/en](https://aimanmalib.com/en).
 
 #### Open source
 
