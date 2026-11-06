@@ -35,6 +35,7 @@ Details for every product and client site: [aimanmalib.com/en/work](https://aima
 
 | Project | What it does |
 |---|---|
+| [mypii](https://github.com/sasateguh/mypii) | Malaysian PII recognizers (MyKad, SSM, phone) for Presidio, with a synthetic Malay, English and Manglish benchmark; `pip install mypii` ([PyPI](https://pypi.org/project/mypii/), [DOI](https://doi.org/10.5281/zenodo.24014252)) (Python) |
 | [codr](https://github.com/sasateguh/codr) | Self-hosted git forge in one Go binary: plain bare git repositories next to one SQLite file, SSH and HTTPS, issues, pull requests and CI, in English and Malay (Go) |
 | [bayarkit](https://github.com/sasateguh/bayarkit) | One TypeScript interface for 16 payment gateways (Malaysian ones plus Stripe, Paddle and PayPal; 6 tested against real sandboxes), with part of it in PHP/Laravel; [@bayarkit/core](https://www.npmjs.com/package/@bayarkit/core) on npm |
 | [crewforge](https://github.com/aimanmalib/crewforge) | One crew of LLM agents, five recipes: code review, document Q&A with citations, API scaffolding, articles, and honest academic-writing help (BM/EN). Fails loudly instead of reporting success on empty output. `pip install crewforge` (Python, [PyPI](https://pypi.org/project/crewforge/)) |
