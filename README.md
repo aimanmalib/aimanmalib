@@ -49,6 +49,7 @@ Company projects, including the engine behind Sasa Teguh Academy and weekly-rank
 
 #### Contributions
 
+- [lance-format/lance#10554](https://github.com/lance-format/lance/pull/10554): cover Float16 streaming coreset for FLAT/PQ/SQ (merged)
 - [Entelligence-AI/agentplay#43](https://github.com/Entelligence-AI/agentplay/pull/43): price six unpriced models from their providers' pages (merged)
 - [Entelligence-AI/agentplay#46](https://github.com/Entelligence-AI/agentplay/pull/46): price each request at its long-context tier (merged)
 - [lance-format/lance#7226](https://github.com/lance-format/lance/pull/7226): expose `io_buffer_size` in `CompactionOptions` (merged)
