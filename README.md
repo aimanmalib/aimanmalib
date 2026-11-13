@@ -50,6 +50,7 @@ Company projects, including the engine behind Sasa Teguh Academy and weekly-rank
 
 #### Contributions
 
+- [gnoviawan/troupe#1767](https://github.com/gnoviawan/troupe/pull/1767): keep the Rail tab track until the pointer leaves the Rail (merged)
 - [NousResearch/hermes-agent#150155](https://github.com/NousResearch/hermes-agent/pull/150155): add telegram-app plugin (merged)
 - [ccxt/ccxt#31129](https://github.com/ccxt/ccxt/pull/31129): spot fetchTickers skips tickers that resolve to a contract (merged)
 - [NousResearch/hermes-agent#40710](https://github.com/NousResearch/hermes-agent/pull/40710): remove stale auxiliary.skills_hub LLM slot (merged)
