@@ -54,6 +54,8 @@ Company projects, including the engine behind Sasa Teguh Academy and weekly-rank
 
 #### Contributions
 
+- [headroomlabs-ai/headroom#4898](https://github.com/headroomlabs-ai/headroom/pull/4898): protect cache_control markers nested in tool_result content (merged)
+- [headroomlabs-ai/headroom#4739](https://github.com/headroomlabs-ai/headroom/pull/4739): keep list-form tool_result text blocks on separate lines (merged)
 - [gnoviawan/troupe#1767](https://github.com/gnoviawan/troupe/pull/1767): keep the Rail tab track until the pointer leaves the Rail (merged)
 - [NousResearch/hermes-agent#150155](https://github.com/NousResearch/hermes-agent/pull/150155): add telegram-app plugin (merged)
 - [ccxt/ccxt#31129](https://github.com/ccxt/ccxt/pull/31129): spot fetchTickers skips tickers that resolve to a contract (merged)
