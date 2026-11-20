@@ -54,6 +54,8 @@ Company projects, including the engine behind Sasa Teguh Academy and weekly-rank
 
 #### Contributions
 
+- [lance-format/lance#11236](https://github.com/lance-format/lance/pull/11236): compare integer literals outside an integer column's type as constants (merged)
+- [lance-format/lance#11115](https://github.com/lance-format/lance/pull/11115): pick a common element type for array literals (merged)
 - [headroomlabs-ai/headroom#4898](https://github.com/headroomlabs-ai/headroom/pull/4898): protect cache_control markers nested in tool_result content (merged)
 - [headroomlabs-ai/headroom#4739](https://github.com/headroomlabs-ai/headroom/pull/4739): keep list-form tool_result text blocks on separate lines (merged)
 - [gnoviawan/troupe#1767](https://github.com/gnoviawan/troupe/pull/1767): keep the Rail tab track until the pointer leaves the Rail (merged)
