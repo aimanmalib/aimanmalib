@@ -47,6 +47,7 @@ Details for every product and client site: [aimanmalib.com/en/work](https://aima
 | [izin](https://github.com/aimanmalib/izin) | GO, ASK or NO-GO before an AI agent acts on a website, with the site's own clause quoted. Reads on Dolphin, decides with SERV Reasoning (TypeScript) |
 | [one-good-take-devlog](https://github.com/aimanmalib/one-good-take-devlog) | Glass Box dev log for One Good Take, a one-thumb film-editing puzzle game in Unreal Engine 5.8 C++, directed by one student and built with coding agents for the 2026 Epic AI MegaJam (HTML) |
 | [spaceapps26](https://github.com/aimanmalib/spaceapps26) | Still in View: compare lunar landing sites and dates by sunlight for power and a direct line to Earth. NASA Space Apps Challenge 2026 entry (Lunar Landing Site Navigator) (JavaScript) |
+| [terkini](https://github.com/aimanmalib/terkini) | Checks AI answers about Malaysian rules against official government pages, with exact quotes and a freshness score. Tavily + Bifrost (Python) |
 
 crewforge, learnpath and studypal work with any OpenAI-compatible provider (OpenAI, OpenRouter, Groq, Ollama and others); learnpath and studypal let you bring your own key. crewforge brings together four earlier tools, [codeguard](https://github.com/aimanmalib/codeguard), [documind](https://github.com/aimanmalib/documind), [apiforge](https://github.com/aimanmalib/apiforge) and [contentforge](https://github.com/aimanmalib/contentforge), which are now archived.
 
