@@ -55,6 +55,9 @@ Details for every product and client site: [aimanmalib.com/en/work](https://aima
 | [sampan-xo](https://github.com/aimanmalib/sampan-xo) | Swap Intent and Migrate-to-XO templates: one-sided BCH-for-CashToken offers anyone can fill, and Sampan's landing contract ported byte-for-byte to XO. BCH BLAZE 2026 (TypeScript) |
 | [tambat](https://github.com/aimanmalib/tambat) | Bind a Bitcoin Cash address to a Nostr key with NIP-39, publish it to relays, and let anyone verify it without trusting a server. BCH BLAZE 2026 (TypeScript) |
 | [tuai](https://github.com/aimanmalib/tuai) | Pull-based reward claims for FoldingCash on Bitcoin Cash: each folder claims its own share from a Merkle root, no airdrop sender. BCH BLAZE 2026 (TypeScript) |
+| [bumpproof](https://github.com/aimanmalib/bumpproof) | Dependabot says the bump is safe. Bumpproof makes Kane CLI prove it in a real browser, and has your coding agent fix what breaks (TypeScript) |
+| [dofleet](https://github.com/aimanmalib/dofleet) | Disposable DigitalOcean droplets that delete themselves: expiry timers, a month budget, one-command jobs and an MCP server for AI agents (Python) |
+| [hash-hunters](https://github.com/aimanmalib/hash-hunters) | Tiny browser JRPG: every monster hatches from a real Sepolia block hash. No wallet needed (JavaScript) |
 
 crewforge, learnpath and studypal work with any OpenAI-compatible provider (OpenAI, OpenRouter, Groq, Ollama and others); learnpath and studypal let you bring your own key. crewforge brings together four earlier tools, [codeguard](https://github.com/aimanmalib/codeguard), [documind](https://github.com/aimanmalib/documind), [apiforge](https://github.com/aimanmalib/apiforge) and [contentforge](https://github.com/aimanmalib/contentforge), which are now archived.
 
