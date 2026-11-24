@@ -58,6 +58,7 @@ Details for every product and client site: [aimanmalib.com/en/work](https://aima
 | [bumpproof](https://github.com/aimanmalib/bumpproof) | Dependabot says the bump is safe. Bumpproof makes Kane CLI prove it in a real browser, and has your coding agent fix what breaks (TypeScript) |
 | [dofleet](https://github.com/aimanmalib/dofleet) | Disposable DigitalOcean droplets that delete themselves: expiry timers, a month budget, one-command jobs and an MCP server for AI agents (Python) |
 | [hash-hunters](https://github.com/aimanmalib/hash-hunters) | Tiny browser JRPG: every monster hatches from a real Sepolia block hash. No wallet needed (JavaScript) |
+| [degup](https://github.com/aimanmalib/degup) | Degup: a three-minute webcam game that checks if you can feel your own heartbeat. Electron app on the Presage SmartSpectra SDK (live pulse and breathing). Entry for the DEV Presage SmartSpectra SDK Challenge (TypeScript) |
 
 crewforge, learnpath and studypal work with any OpenAI-compatible provider (OpenAI, OpenRouter, Groq, Ollama and others); learnpath and studypal let you bring your own key. crewforge brings together four earlier tools, [codeguard](https://github.com/aimanmalib/codeguard), [documind](https://github.com/aimanmalib/documind), [apiforge](https://github.com/aimanmalib/apiforge) and [contentforge](https://github.com/aimanmalib/contentforge), which are now archived.
 
