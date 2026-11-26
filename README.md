@@ -67,6 +67,10 @@ Company projects, including the engine behind Sasa Teguh Academy and weekly-rank
 
 #### Contributions
 
+- [solidcash/solidcash#8](https://github.com/solidcash/solidcash/pull/8): name the failing require when a constructor refuses (merged)
+- [solidcash/solidcash#9](https://github.com/solidcash/solidcash/pull/9): let a framed contract pay to a built-in locking bytecode (merged)
+- [solidcash/solidcash#15](https://github.com/solidcash/solidcash/pull/15): export an unlocker for the filler outputs a call leaves (merged)
+- [solidcash/solidcash#10](https://github.com/solidcash/solidcash/pull/10): let MockNetworkProvider type-check as a NetworkProvider under exactOptionalPropertyTypes (merged)
 - [lancedb/lancedb#5089](https://github.com/lancedb/lancedb/pull/5089): allow BTree indexes on LargeUtf8 columns (merged)
 - [lance-format/lance#11236](https://github.com/lance-format/lance/pull/11236): compare integer literals outside an integer column's type as constants (merged)
 - [lance-format/lance#11115](https://github.com/lance-format/lance/pull/11115): pick a common element type for array literals (merged)
