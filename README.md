@@ -60,6 +60,7 @@ Details for every product and client site: [aimanmalib.com/en/work](https://aima
 | [hash-hunters](https://github.com/aimanmalib/hash-hunters) | Tiny browser JRPG: every monster hatches from a real Sepolia block hash. No wallet needed (JavaScript) |
 | [degup](https://github.com/aimanmalib/degup) | Degup: a three-minute webcam game that checks if you can feel your own heartbeat. Electron app on the Presage SmartSpectra SDK (live pulse and breathing). Entry for the DEV Presage SmartSpectra SDK Challenge (TypeScript) |
 | [mentari](https://github.com/aimanmalib/mentari) | Solar certificates you can retire only once: an EVM burn and a Native receipt on QoreChain land in one Cross-VM transaction, or not at all. ML-DSA-87 signed meter readings. Built for Build Before Q-Day (TypeScript) |
+| [followthrough](https://github.com/aimanmalib/followthrough) | An OpenMinion agent that applies your CONTRIBUTING follow-up rules to issue threads every day and drafts each follow-up for a human to approve (Python) |
 
 crewforge, learnpath and studypal work with any OpenAI-compatible provider (OpenAI, OpenRouter, Groq, Ollama and others); learnpath and studypal let you bring your own key. crewforge brings together four earlier tools, [codeguard](https://github.com/aimanmalib/codeguard), [documind](https://github.com/aimanmalib/documind), [apiforge](https://github.com/aimanmalib/apiforge) and [contentforge](https://github.com/aimanmalib/contentforge), which are now archived.
 
