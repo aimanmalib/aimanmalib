@@ -68,6 +68,7 @@ Company projects, including the engine behind Sasa Teguh Academy and weekly-rank
 
 #### Contributions
 
+- [NousResearch/hermes-agent#159626](https://github.com/NousResearch/hermes-agent/pull/159626): pin telegram-app 0.7.1 (Ask Hermes, storage interface) (merged)
 - [solidcash/solidcash#8](https://github.com/solidcash/solidcash/pull/8): name the failing require when a constructor refuses (merged)
 - [solidcash/solidcash#9](https://github.com/solidcash/solidcash/pull/9): let a framed contract pay to a built-in locking bytecode (merged)
 - [solidcash/solidcash#15](https://github.com/solidcash/solidcash/pull/15): export an unlocker for the filler outputs a call leaves (merged)
