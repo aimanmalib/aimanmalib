@@ -62,6 +62,7 @@ Details for every product and client site: [aimanmalib.com/en/work](https://aima
 | [mentari](https://github.com/aimanmalib/mentari) | Solar certificates you can retire only once: an EVM burn and a Native receipt on QoreChain land in one Cross-VM transaction, or not at all. ML-DSA-87 signed meter readings. Built for Build Before Q-Day (TypeScript) |
 | [followthrough](https://github.com/aimanmalib/followthrough) | An OpenMinion agent that applies your CONTRIBUTING follow-up rules to issue threads every day and drafts each follow-up for a human to approve (Python) |
 | [kekal](https://github.com/aimanmalib/kekal) | Kekal: a warranty reserve on Solana that outlives the shop (TypeScript) |
+| [pelita](https://github.com/aimanmalib/pelita) | Keeps Reactive Network contracts lit: refuels a reactive contract from one tank when the system blacklists it for debt. Testnet entry, Reactive Omni Buildathon (Python) |
 
 crewforge, learnpath and studypal work with any OpenAI-compatible provider (OpenAI, OpenRouter, Groq, Ollama and others); learnpath and studypal let you bring your own key. crewforge brings together four earlier tools, [codeguard](https://github.com/aimanmalib/codeguard), [documind](https://github.com/aimanmalib/documind), [apiforge](https://github.com/aimanmalib/apiforge) and [contentforge](https://github.com/aimanmalib/contentforge), which are now archived.
 
